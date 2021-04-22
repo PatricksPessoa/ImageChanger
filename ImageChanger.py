@@ -17,7 +17,7 @@ window.configure(background=c2)
 frame = Frame(window, width=405, height=250, bg=c2, relief="flat")
 frame.grid(row=0, column=0,sticky=NSEW)
 
-app_name = Label(frame, text="Images Compress", width=24, height=1, anchor=CENTER,
+app_name = Label(frame, text="Image Changer", width=24, height=1, anchor=CENTER,
                  pady =7, padx=10, relief="flat", font=("Courier 20 bold"), bg=c2,fg=c0)
 app_name.grid(row=0, column=0,columnspan=2,sticky=NSEW,pady=1)
 
