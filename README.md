@@ -1,0 +1,2 @@
+# ImageChanger
+Resize your images
